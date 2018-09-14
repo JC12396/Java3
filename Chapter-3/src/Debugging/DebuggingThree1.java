@@ -7,7 +7,7 @@ public class DebuggingThree1
 	  double bill = 180;
       double myCheck = 50.00;
       double yourCheck = 19.95;
-      System.out.println("Tips are");
+      System.out.println("Tips are cool.");
       calcTip(bill);
     }
     public static void calcTip(double bill)
